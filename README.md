@@ -8,40 +8,57 @@ Students and community members often lose their belongings, and traditional meth
 Find My Stuff solves this problem by offering a centralized system for recording, finding, and recovering lost items.
 
 ## Target Users
--Students and teachers who lose or find items
+*Students and teachers who lose or find items
 
--School staff managing lost-and-found
+*School staff managing lost-and-found
 
--Anyone who wants a simple way to track lost belongings
+*Anyone who wants a simple way to track lost belongings
 
 ## Project Objectives
--Provide an organized way to report lost and found items
--Allow users to search for items quickly
--Automatically match found items with lost item reports
--Store data for future reference
--Allow users to update or delete their entries
+1. Provide an organized way to report lost and found items
+
+2. Allow users to search for items quickly
+
+3. Automatically match found items with lost item reports
+
+4. Store data for future reference
+
+5. Allow users to update or delete their entries
 
 ## Features
 -Add lost item details (name, description, location, date)
+
 -Add found item details
+
 -Search for lost or found items
+
 -Match found items with lost reports
+
 -Update or delete entries
+
 -Store and retrieve data for future reference
 
 ## Inputs and Outputs
 Inputs
 -Item name
+
 -Description
+
 -Location
+
 -Date
+
 -Category(optional)
+
 -User contact info (optional)
 
 Outputs
 -List of matching lost and found items
+
 -Confirmation of added entries
+
 -Updated or delted item logs
+
 -Search results based o keywords
 
 ## How to Use the Project
@@ -53,9 +70,13 @@ Outputs
 
 ## Example Usage
 Lost Item Report
+
 Name: Black Wallet
+
 Description: Contains school ID and cash
+
 Location: School library
+
 Date: August 10, 2025
 
 Search Result
