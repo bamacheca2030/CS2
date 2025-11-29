@@ -26,6 +26,7 @@ Find My Stuff solves this problem by offering a centralized system for recording
 5. Allow users to update or delete their entries
 
 ## Features
+
 -Add lost item details (name, description, location, date)
 
 -Add found item details
@@ -39,27 +40,29 @@ Find My Stuff solves this problem by offering a centralized system for recording
 -Store and retrieve data for future reference
 
 ## Inputs and Outputs
-Inputs
--Item name
+## Inputs
 
--Description
+*Item name
 
--Location
+*Description
 
--Date
+*Location
 
--Category(optional)
+*Date
 
--User contact info (optional)
+*Category(optional)
 
-Outputs
--List of matching lost and found items
+*User contact info (optional)
 
--Confirmation of added entries
+## Outputs
 
--Updated or delted item logs
+*List of matching lost and found items
 
--Search results based o keywords
+*Confirmation of added entries
+
+*Updated or delted item logs
+
+*Search results based o keywords
 
 ## How to Use the Project
 1. Launch the program or open the file.
@@ -84,5 +87,7 @@ A matching wallet was found in the school cafeteria on August 11, 2025.
 
 ## Contributors
 Student 1: Bradgette Angel C. Macheca (data input and validation)
+
 Student 2: Rafael Barabar (search and matching logic)
+
 Student 3: Sharlin Minji Kang (user interface design)
