@@ -9,7 +9,9 @@ Find My Stuff solves this problem by offering a centralized system for recording
 
 ## Target Users
 -Students and teachers who lose or find items
+
 -School staff managing lost-and-found
+
 -Anyone who wants a simple way to track lost belongings
 
 ## Project Objectives
