@@ -74,6 +74,7 @@ Find My Stuff solves this problem by offering a centralized system for recording
 ## Example Usage
 Lost Item Report
 
+
 Name: Black Wallet
 
 Description: Contains school ID and cash
@@ -81,6 +82,7 @@ Description: Contains school ID and cash
 Location: School library
 
 Date: August 10, 2025
+
 
 Search Result
 
