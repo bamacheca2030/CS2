@@ -92,6 +92,6 @@ A matching wallet was found in the school cafeteria on August 11, 2025.
 ## Contributors
 Student 1: Bradgette Angel C. Macheca (data input and validation)
 
-Student 2: Rafael Barabar (search and matching logic)
+Student 2: Rafael Barabar 
 
 Student 3: Sharlin Minji Kang (user interface design)
