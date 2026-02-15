@@ -72,7 +72,7 @@ Find My Stuff solves this problem by offering a centralized system for recording
 5. Follow the instructions to contact the owner or claimant.
 
 ## Example Usage
-Lost Item Report
+## Lost Item Report
 
 
 Name: Black Wallet
@@ -84,7 +84,7 @@ Location: School library
 Date: August 10, 2025
 
 
-Search Result
+## Search Result
 
 A matching wallet was found in the school cafeteria on August 11, 2025.
 
