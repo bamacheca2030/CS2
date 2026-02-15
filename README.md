@@ -207,28 +207,18 @@ Based on the ACM Code of Ethics:
 ## 1. File Structure
 
 FindMyStuff/
+
 │── src/
-
 │    ├── main.py
-
 │    ├── search.py
-
 │    ├── storage.py
-
 │── data/
-
 │    ├── lost_items.json
-
 │    ├── found_items.json
-
 │── docs/
-
 │    ├── README.md
-
 │    ├── CHANGELOG.md
-
 │── tests/
-
 │── LICENSE
 
 ## 2. Commit Messages
