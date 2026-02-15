@@ -98,9 +98,8 @@ Includes data validation for required fields.
 ## b. Storage Module
 Stores data in JSON or CSV files for easy reading and writing.
 
-Sample structure:
-
-```{
+```
+{
 
   "item_name": "",
   
@@ -116,9 +115,11 @@ Sample structure:
   
   "status": "lost" or "found"
   
-}```
+}
+```
 
 ## c. Search and Matching Module
+
 Searches based on:
 
 • Keywords
