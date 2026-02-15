@@ -88,6 +88,7 @@ Search Result
 
 A matching wallet was found in the school cafeteria on August 11, 2025.
 
+
 ## Detailed Methodology
 ## 1. System Architecture
 The project consists of three main modules.
@@ -99,20 +100,31 @@ Stores data in JSON or CSV files for easy reading and writing.
 Sample structure:
 
 {
+
   "item_name": "",
+  
   "description": "",
+  
   "location": "",
+  
   "date": "",
+  
   "category": "",
+  
   "contact": "",
+  
   "status": "lost" or "found"
+  
 }
 
 ## c. Search and Matching Module
 Searches based on:
+
 • Keywords
+
 • Items with similar location, date, or name
-Matches entries from lost and found lists automatically.
+
+• Matches entries from lost and found lists automatically.
 
 
 ## Technologies Used
@@ -170,16 +182,27 @@ Based on the ACM Code of Ethics:
 
 FindMyStuff/
 │── src/
+
 │    ├── main.py
+
 │    ├── search.py
+
 │    ├── storage.py
+
 │── data/
+
 │    ├── lost_items.json
+
 │    ├── found_items.json
+
 │── docs/
+
 │    ├── README.md
+
 │    ├── CHANGELOG.md
+
 │── tests/
+
 │── LICENSE
 
 ## 2. Commit Messages
