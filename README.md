@@ -139,42 +139,66 @@ Searches based on:
 
 
 ## Backend–Frontend Communication (If applicable)
+
 • User fills a form in the interface
+
 • Data is sent to the backend for processing
+
 • Backend stores the data and returns matching results
+
 • Results are displayed on the screen
 
 ## Key Design Decisions
+
 • Use of simple file-based storage for accessibility
+
 • Modular structure to keep the code organized
+
 • Keyword search for simplicity and speed
+
 • Minimalistic interface for accessibility and ease of use
 
 
 ## Programming and Computing Ethics
+
 The project follows ethical guidelines that ensure responsible programming.
 
 ## 1. Privacy
+
 * Contact information is optional
+
 * Only necessary data is collected
+  
 * Data stored in simple, readable, and modifiable formats
 
 ## 2. Intellectual Property
+
 * All external code is credited appropriately
+ 
 * No plagiarism
+ 
 * Proper citations used following APA format
 
 ## 3. Accessibility and Inclusion
+
 * Simple UI
+  
 * Readable text and beginner-friendly layout
+
 * Avoids unnecessary complexity
 
 ## 4. Professional Responsibility
+
 Based on the ACM Code of Ethics:
+
 *Avoid harm
+
 *Respect privacy
+
 *Be honest and trustworthy
+
 *Credit others’ work
+
 *Ensure computing benefits society
 
 
@@ -208,18 +232,27 @@ FindMyStuff/
 │── LICENSE
 
 ## 2. Commit Messages
+
 Should be descriptive and meaningful:
+
 * “Added search module with keyword filter”
+
 * “Updated README with methodology section”
+
 * “Improved data validation for lost item inputs”
 
 ## 3. Branch Usage (optional)
+
 * main for final code
+
 * dev for new features
 
 ## 4. README Must Contain
+
 * Description of the project
+
 * How to install and run
+
 * Technologies used
 
 ## Contributors
@@ -230,4 +263,5 @@ Student 2: Rafael Barabar
 Student 3: Sharlin Minji Kang (user interface design)
 
 ## References (APA Style)
+
 Association for Computing Machinery. (2018). ACM Code of Ethics and Professional Conduct. https://www.acm.org/code-of-ethics
