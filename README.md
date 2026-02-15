@@ -206,7 +206,8 @@ Based on the ACM Code of Ethics:
 
 ## 1. File Structure
 
-```FindMyStuff/
+```
+FindMyStuff/
 │── src/
 │    ├── main.py
 │    ├── search.py
